@@ -10,4 +10,4 @@ and [how the game plays](https://drive.google.com/file/d/1klKW36VJ42PRS9OX6DhAU2
 
 # Usage 
 
-Please run 'No_Thief_Under_Heaven.py'.
+`python No_Thief_Under_Heaven.py`
